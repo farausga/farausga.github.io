@@ -1,0 +1,35 @@
+img {
+  color: red;
+  width: 300px;
+  height: 500px;
+  border: 5px outset Rebeccapurple;
+  margin: 0 auto;
+  display: block;
+}
+html {
+	font-size: 25px;
+	font-family: 'Kirang Haerang', cursive;
+}
+h1 {
+font-size: 80px;
+text-align: center;
+margin: 0;
+padding: 20px 0;
+color: #E30A2B;
+text-shadow: 10px 10px 1px black;
+}
+p, ul, ol {
+	font-size: 25px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+html {
+	background-color: #D1B0F0;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #5443BA;
+  padding: 0 150px 50px 150px;
+  border: 10px dotted #8000ff; /*este codigo representa un color morado del borde del body que previamente modifique en puntos con el codigo dotted*/
+}
