@@ -23,7 +23,7 @@ document.querySelector('h1').onclick = function() {
     alert('ITACHI'); myHeading.textContent = 'ITACHI!';
 }
 
-
+//codigo keanu
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute('src');
     if(mySrc === 'images/itachi2.jpg') {
@@ -37,6 +37,7 @@ myImage.onclick = function() {
 myButton.onclick = function() {
   setUserName();
 }
+//Relacion Ninja-Aldea
 function setUserName() {
   let myName = prompt('Aldea');
   if(!myName) {
